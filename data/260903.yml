@@ -1,19 +1,21 @@
 about:
-  description: Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
+  description:
+  |
+    Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
   license: MIT
   homepage: https://netwatchlabs.com
   head: 5547418
   archived: false
   latestVersion: v0.29.2
-  collectedAt: 2026-09-03T05:11:03Z
+  collectedAt: 2026-09-03T22:36:58Z
 timeline:
   created: 2026-02-14
   lastCommit: 2026-08-30
   lastRelease: 2026-08-15
 popularity:
-  star: 2736
-  watcher: 16
-  fork: 112
+  star: 2830
+  watcher: 17
+  fork: 126
   release: 69
   contributor: 6
   pullRequest: 1
@@ -24,7 +26,7 @@ language:
   Nix: 1426
   Python: 1278
   Tape: 1209
-totalLine: 1933636
+totalBytes: 1933636
 recent:
   last30d:
     since: 2026-08-04
