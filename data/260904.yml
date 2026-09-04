@@ -7,13 +7,13 @@ about:
   head: 5547418
   archived: false
   latestVersion: v0.29.2
-  collectedAt: 2026-09-04T20:05:45Z
+  collectedAt: 2026-09-04T20:35:07Z
 timeline:
   created: 2026-02-14
   lastCommit: 2026-08-30
   lastRelease: 2026-08-15
 popularity:
-  star: 2883
+  star: 2885
   watcher: 18
   fork: 129
   release: 69
@@ -85,7 +85,7 @@ total:
   commit: 331
 ---
 path: /home/runner/.x-repo/github.com/matthart1983/netwatch
-collectedAt: 2026-09-04T20:05:47Z
+collectedAt: 2026-09-04T20:35:11Z
 loc:
   Rust:
     code: 42912
