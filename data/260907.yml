@@ -1,0 +1,168 @@
+about:
+  description: "Real-time network diagnostics in your terminal. One command, zero config, instant visibility."
+  license: MIT
+  homepage: https://netwatchlabs.com
+  head: 682bb1c
+  archived: false
+  latestVersion: "v0.30.0"
+  collectedAt: 2026-09-07T06:09:03Z
+timeline:
+  created: 2026-02-14
+  lastCommit: 2026-09-05
+  lastRelease: 2026-09-05
+popularity:
+  star: 2979
+  watcher: 20
+  fork: 137
+  release: 70
+  contributor: 6
+  pullRequest: 18
+  issue: 31
+language:
+  Rust: 2422198
+  Shell: 18278
+  Nix: 1426
+  Python: 1278
+  Tape: 1209
+totalBytes: 2444389
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 5
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 3
+    openIssue: 0
+    commit: 10
+  last60d:
+    since: 2026-07-09
+    release: 8
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 3
+    openIssue: 0
+    commit: 41
+  last90d:
+    since: 2026-06-09
+    release: 13
+    mergedPR: 4
+    openPR: 0
+    closedIssue: 4
+    openIssue: 0
+    commit: 56
+  last180d:
+    since: 2026-03-11
+    release: 70
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 31
+    openIssue: 0
+    commit: 267
+  last360d:
+    since: 2025-09-12
+    release: 70
+    mergedPR: 17
+    openPR: 0
+    closedIssue: 31
+    openIssue: 0
+    commit: 330
+  last720d:
+    since: 2024-09-17
+    release: 70
+    mergedPR: 17
+    openPR: 0
+    closedIssue: 31
+    openIssue: 0
+    commit: 336
+total:
+  release: 70
+  mergedPR: 17
+  openPR: 0
+  closedIssue: 31
+  openIssue: 0
+  commit: 336
+---
+path: /home/runner/.x-repo/github.com/matthart1983/netwatch
+collectedAt: 2026-09-07T06:09:09Z
+loc:
+  Rust:
+    code: 53521
+    comments: 3621
+    blanks: 4906
+    files: 113
+  Html:
+    code: 1167
+    comments: 36
+    blanks: 44
+    files: 2
+  Sh:
+    code: 213
+    comments: 181
+    blanks: 40
+    files: 7
+  Toml:
+    code: 67
+    comments: 54
+    blanks: 9
+    files: 1
+  Nix:
+    code: 50
+    comments: 2
+    blanks: 9
+    files: 2
+  Python:
+    code: 39
+    comments: 1
+    blanks: 1
+    files: 1
+  Svg:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2718
+    blanks: 786
+    files: 12
+total:
+  code: 55930
+  comments: 12050
+  blanks: 6331
+  files: 139
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T06:09:11+00:00
+  platform:
+    darwin/arm64:
+      name:  netwatch-macos-aarch64.tar.gz
+      url:   https://github.com/matthart1983/netwatch/releases/download/v0.30.0/netwatch-macos-aarch64.tar.gz
+      size:  3850721
+      score: 45
+    darwin/amd64:
+      name:  netwatch-macos-x86_64.tar.gz
+      url:   https://github.com/matthart1983/netwatch/releases/download/v0.30.0/netwatch-macos-x86_64.tar.gz
+      size:  4045954
+      score: 45
+    linux/arm64:
+      name:  netwatch-linux-aarch64.tar.gz
+      url:   https://github.com/matthart1983/netwatch/releases/download/v0.30.0/netwatch-linux-aarch64.tar.gz
+      size:  4529399
+      score: 45
+    linux/amd64:
+      name:  netwatch-linux-x86_64.tar.gz
+      url:   https://github.com/matthart1983/netwatch/releases/download/v0.30.0/netwatch-linux-x86_64.tar.gz
+      size:  4608792
+      score: 45
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  netwatch-windows-x86_64.exe.zip
+      url:   https://github.com/matthart1983/netwatch/releases/download/v0.30.0/netwatch-windows-x86_64.exe.zip
+      size:  3765179
+      score: 45
