@@ -14,12 +14,12 @@ x install netwatch
 
 ## Code insight
 
-Total: **57,454** lines of code across **127** files in the top 5 languages.
+Total: **60,677** lines of code across **131** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 55,899 | 3,737 | 5,069 | 114 |
-| Html | 1,167 | 36 | 44 | 2 |
+| Rust | 58,004 | 3,682 | 5,137 | 116 |
+| Html | 2,285 | 35 | 42 | 4 |
 | Sh | 225 | 217 | 45 | 8 |
 | Toml | 67 | 54 | 9 | 1 |
 | Nix | 50 | 2 | 9 | 2 |
@@ -33,7 +33,7 @@ Total: **57,454** lines of code across **127** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.30.4` (2026-09-09)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-10
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **57,454** lines of code across **127** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 18 · **Open PRs**: 0 · **Closed issues**: 32 · **Open issues**: 0 · **Commits**: 345
+- **Releases**: 74 · **Merged PRs**: 18 · **Open PRs**: 0 · **Closed issues**: 32 · **Open issues**: 0 · **Commits**: 346
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 8 | 2 | 0 | 4 | 0 | 18 |
-| last60d | 2026-07-12 | 12 | 4 | 0 | 4 | 0 | 49 |
-| 90d | 2026-06-12 | 16 | 4 | 0 | 5 | 0 | 64 |
-| last180d | 2026-03-14 | 74 | 17 | 0 | 32 | 0 | 275 |
-| 360d | 2025-09-15 | 74 | 18 | 0 | 32 | 0 | 338 |
-| last720d | 2024-09-20 | 74 | 18 | 0 | 32 | 0 | 345 |
+| 30d | 2026-08-11 | 8 | 2 | 0 | 4 | 0 | 19 |
+| last60d | 2026-07-12 | 12 | 4 | 0 | 4 | 0 | 50 |
+| 90d | 2026-06-12 | 16 | 4 | 0 | 5 | 0 | 65 |
+| last180d | 2026-03-14 | 74 | 17 | 0 | 32 | 0 | 276 |
+| 360d | 2025-09-15 | 74 | 18 | 0 | 32 | 0 | 339 |
+| last720d | 2024-09-20 | 74 | 18 | 0 | 32 | 0 | 346 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for netwatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:26:28Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:30:26Z._
