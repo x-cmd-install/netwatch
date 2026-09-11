@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.31.0"
   latestRelease: "v0.31.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:20:00Z
+  collectedAt: 2026-09-11T18:28:25Z
 timeline:
   created: 2026-02-14
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 3041
+  star: 3044
   watcher: 20
-  fork: 141
+  fork: 142
   release: 75
   contributor: 6
   pullRequest: 19
-  issue: 32
+  issue: 33
 language:
   Rust: 2615631
   Shell: 20910
@@ -36,7 +36,7 @@ recent:
     mergedPR: 2
     openPR: 0
     closedIssue: 3
-    openIssue: 0
+    openIssue: 1
     commit: 19
   last60d:
     since: 2026-07-13
@@ -44,7 +44,7 @@ recent:
     mergedPR: 4
     openPR: 0
     closedIssue: 4
-    openIssue: 0
+    openIssue: 1
     commit: 50
   last90d:
     since: 2026-06-13
@@ -52,7 +52,7 @@ recent:
     mergedPR: 4
     openPR: 0
     closedIssue: 5
-    openIssue: 0
+    openIssue: 1
     commit: 65
   last180d:
     since: 2026-03-15
@@ -60,7 +60,7 @@ recent:
     mergedPR: 17
     openPR: 0
     closedIssue: 32
-    openIssue: 0
+    openIssue: 1
     commit: 276
   last360d:
     since: 2025-09-16
@@ -68,7 +68,7 @@ recent:
     mergedPR: 18
     openPR: 0
     closedIssue: 32
-    openIssue: 0
+    openIssue: 1
     commit: 339
   last720d:
     since: 2024-09-21
@@ -76,18 +76,18 @@ recent:
     mergedPR: 18
     openPR: 0
     closedIssue: 32
-    openIssue: 0
+    openIssue: 1
     commit: 346
 total:
   release: 75
   mergedPR: 18
   openPR: 0
   closedIssue: 32
-  openIssue: 0
+  openIssue: 1
   commit: 346
 ---
 path: /home/runner/.x-repo/github.com/matthart1983/netwatch
-collectedAt: 2026-09-11T06:20:04Z
+collectedAt: 2026-09-11T18:28:31Z
 loc:
   Rust:
     code: 58004
