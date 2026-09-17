@@ -33,27 +33,27 @@ Total: **65,090** lines of code across **141** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.31.4` (2026-09-14)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-16
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 3,063 · **Forks**: 145 · **Open issues**: 33 · **Contributors**: 7
+- **Stars**: 3,068 · **Forks**: 145 · **Open issues**: 33 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 33 · **Open issues**: 0 · **Commits**: 354
+- **Releases**: 78 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 33 · **Open issues**: 0 · **Commits**: 356
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 9 | 4 | 0 | 3 | 0 | 23 |
-| last60d | 2026-07-18 | 16 | 6 | 0 | 5 | 0 | 58 |
-| 90d | 2026-06-18 | 20 | 6 | 0 | 6 | 0 | 72 |
-| last180d | 2026-03-20 | 78 | 19 | 0 | 33 | 0 | 276 |
-| 360d | 2025-09-21 | 78 | 20 | 0 | 33 | 0 | 347 |
-| last720d | 2024-09-26 | 78 | 20 | 0 | 33 | 0 | 354 |
+| 30d | 2026-08-18 | 9 | 4 | 0 | 3 | 0 | 25 |
+| last60d | 2026-07-19 | 16 | 6 | 0 | 5 | 0 | 60 |
+| 90d | 2026-06-19 | 20 | 6 | 0 | 6 | 0 | 74 |
+| last180d | 2026-03-21 | 78 | 19 | 0 | 33 | 0 | 278 |
+| 360d | 2025-09-22 | 78 | 20 | 0 | 33 | 0 | 349 |
+| last720d | 2024-09-27 | 78 | 20 | 0 | 33 | 0 | 356 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for netwatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:49:33Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:45:45Z._
