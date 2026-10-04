@@ -14,7 +14,7 @@ x install netwatch
 
 ## Code insight
 
-Total: **95,746** lines of code across **190** files in the top 5 languages.
+Total: **95,748** lines of code across **190** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -32,45 +32,45 @@ Total: **95,746** lines of code across **190** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.35.1` (2026-10-03)
+- **Latest**: `v0.35.2` (2026-10-03)
 - **Last commit**: 2026-10-03
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 3,379 · **Forks**: 154 · **Open issues**: 35 · **Contributors**: 7
+- **Stars**: 3,405 · **Forks**: 156 · **Open issues**: 36 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 23 · **Open PRs**: 0 · **Closed issues**: 35 · **Open issues**: 0 · **Commits**: 630
+- **Releases**: 87 · **Merged PRs**: 24 · **Open PRs**: 0 · **Closed issues**: 35 · **Open issues**: 1 · **Commits**: 633
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 17 | 6 | 0 | 4 | 0 | 269 |
-| last60d | 2026-08-04 | 21 | 7 | 0 | 7 | 0 | 288 |
-| 90d | 2026-07-05 | 24 | 9 | 0 | 7 | 0 | 305 |
-| last180d | 2026-04-06 | 84 | 22 | 0 | 33 | 0 | 512 |
-| 360d | 2025-10-08 | 86 | 23 | 0 | 35 | 0 | 594 |
-| last720d | 2024-10-13 | 86 | 23 | 0 | 35 | 0 | 630 |
+| 30d | 2026-09-04 | 18 | 7 | 0 | 4 | 1 | 259 |
+| last60d | 2026-08-05 | 22 | 8 | 0 | 7 | 1 | 278 |
+| 90d | 2026-07-06 | 25 | 10 | 0 | 7 | 1 | 308 |
+| last180d | 2026-04-07 | 85 | 23 | 0 | 33 | 1 | 494 |
+| 360d | 2025-10-09 | 87 | 24 | 0 | 35 | 1 | 597 |
+| last720d | 2024-10-14 | 87 | 24 | 0 | 35 | 1 | 633 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [netwatch-0.35.1-1.aarch64.rpm](https://github.com/matthart1983/netwatch/releases/download/v0.35.1/netwatch-0.35.1-1.aarch64.rpm) | 4.1 MiB | `runtime/rpm/aarch64` |
-| [netwatch-0.35.1-1.x86_64.rpm](https://github.com/matthart1983/netwatch/releases/download/v0.35.1/netwatch-0.35.1-1.x86_64.rpm) | 4.4 MiB | `runtime/rpm/x86_64` |
-| [netwatch-freebsd-x86_64.tar.gz](https://github.com/matthart1983/netwatch/releases/download/v0.35.1/netwatch-freebsd-x86_64.tar.gz) | 5.5 MiB | `native/linux/x64` |
-| [netwatch-linux-aarch64.tar.gz](https://github.com/matthart1983/netwatch/releases/download/v0.35.1/netwatch-linux-aarch64.tar.gz) | 5.1 MiB | `native/linux/arm64` |
-| [netwatch-linux-armv5te.tar.gz](https://github.com/matthart1983/netwatch/releases/download/v0.35.1/netwatch-linux-armv5te.tar.gz) | 6.0 MiB | `native/linux/arm` |
-| [netwatch-linux-x86_64.tar.gz](https://github.com/matthart1983/netwatch/releases/download/v0.35.1/netwatch-linux-x86_64.tar.gz) | 5.5 MiB | `native/linux/x64` |
-| [netwatch-macos-aarch64.tar.gz](https://github.com/matthart1983/netwatch/releases/download/v0.35.1/netwatch-macos-aarch64.tar.gz) | 5.1 MiB | `native/darwin/arm64` |
-| [netwatch-macos-x86_64.tar.gz](https://github.com/matthart1983/netwatch/releases/download/v0.35.1/netwatch-macos-x86_64.tar.gz) | 5.4 MiB | `native/darwin/x64` |
-| [netwatch-windows-x86_64.exe.zip](https://github.com/matthart1983/netwatch/releases/download/v0.35.1/netwatch-windows-x86_64.exe.zip) | 5.1 MiB | `native/win/x64` |
-| [netwatch_0.35.1-1_amd64.deb](https://github.com/matthart1983/netwatch/releases/download/v0.35.1/netwatch_0.35.1-1_amd64.deb) | 4.1 MiB | `runtime/deb/amd64` |
-| [netwatch_0.35.1-1_arm64.deb](https://github.com/matthart1983/netwatch/releases/download/v0.35.1/netwatch_0.35.1-1_arm64.deb) | 3.6 MiB | `runtime/deb/arm64` |
-| [SHA256SUMS](https://github.com/matthart1983/netwatch/releases/download/v0.35.1/SHA256SUMS) | 1.0 KiB | `other` |
+| [netwatch-0.35.2-1.aarch64.rpm](https://github.com/matthart1983/netwatch/releases/download/v0.35.2/netwatch-0.35.2-1.aarch64.rpm) | 4.1 MiB | `runtime/rpm/aarch64` |
+| [netwatch-0.35.2-1.x86_64.rpm](https://github.com/matthart1983/netwatch/releases/download/v0.35.2/netwatch-0.35.2-1.x86_64.rpm) | 4.4 MiB | `runtime/rpm/x86_64` |
+| [netwatch-freebsd-x86_64.tar.gz](https://github.com/matthart1983/netwatch/releases/download/v0.35.2/netwatch-freebsd-x86_64.tar.gz) | 5.7 MiB | `native/linux/x64` |
+| [netwatch-linux-aarch64.tar.gz](https://github.com/matthart1983/netwatch/releases/download/v0.35.2/netwatch-linux-aarch64.tar.gz) | 5.1 MiB | `native/linux/arm64` |
+| [netwatch-linux-armv5te.tar.gz](https://github.com/matthart1983/netwatch/releases/download/v0.35.2/netwatch-linux-armv5te.tar.gz) | 6.0 MiB | `native/linux/arm` |
+| [netwatch-linux-x86_64.tar.gz](https://github.com/matthart1983/netwatch/releases/download/v0.35.2/netwatch-linux-x86_64.tar.gz) | 5.5 MiB | `native/linux/x64` |
+| [netwatch-macos-aarch64.tar.gz](https://github.com/matthart1983/netwatch/releases/download/v0.35.2/netwatch-macos-aarch64.tar.gz) | 5.1 MiB | `native/darwin/arm64` |
+| [netwatch-macos-x86_64.tar.gz](https://github.com/matthart1983/netwatch/releases/download/v0.35.2/netwatch-macos-x86_64.tar.gz) | 5.4 MiB | `native/darwin/x64` |
+| [netwatch-windows-x86_64.exe.zip](https://github.com/matthart1983/netwatch/releases/download/v0.35.2/netwatch-windows-x86_64.exe.zip) | 5.1 MiB | `native/win/x64` |
+| [netwatch_0.35.2-1_amd64.deb](https://github.com/matthart1983/netwatch/releases/download/v0.35.2/netwatch_0.35.2-1_amd64.deb) | 4.1 MiB | `runtime/deb/amd64` |
+| [netwatch_0.35.2-1_arm64.deb](https://github.com/matthart1983/netwatch/releases/download/v0.35.2/netwatch_0.35.2-1_arm64.deb) | 3.6 MiB | `runtime/deb/arm64` |
+| [SHA256SUMS](https://github.com/matthart1983/netwatch/releases/download/v0.35.2/SHA256SUMS) | 1.0 KiB | `other` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for netwatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:35:16Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T07:09:50Z._
