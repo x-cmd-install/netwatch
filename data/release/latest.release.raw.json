@@ -33,7 +33,7 @@
   "immutable": false,
   "prerelease": false,
   "created_at": "2026-10-17T00:06:41Z",
-  "updated_at": "2026-10-17T00:20:04Z",
+  "updated_at": "2026-10-17T21:59:09Z",
   "published_at": "2026-10-17T00:20:04Z",
   "assets": [
     {
@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4323226,
       "digest": "sha256:e6cc5a2b9ced8388c33f3aae8fba905c0b73c31f1ed82385cb5e3f9a4021f8ca",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-10-17T00:20:03Z",
       "updated_at": "2026-10-17T00:20:03Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.35.4/netwatch-0.35.4-1.aarch64.rpm"
@@ -103,10 +103,46 @@
       "state": "uploaded",
       "size": 4622440,
       "digest": "sha256:88bcc6730f2101320e9fc64d5eb7b7f8c5b9687c0ae923d13d395e2bf4f52068",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-10-17T00:20:03Z",
       "updated_at": "2026-10-17T00:20:03Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.35.4/netwatch-0.35.4-1.x86_64.rpm"
+    },
+    {
+      "url": "https://api.github.com/repos/matthart1983/netwatch/releases/assets/651711773",
+      "id": 651711773,
+      "node_id": "RA_kwDORQfKns4m2FUd",
+      "name": "netwatch-freebsd-x86_64.tar.gz",
+      "label": "",
+      "uploader": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "content_type": "application/x-gtar",
+      "state": "uploaded",
+      "size": 5766196,
+      "digest": "sha256:cc09a36b0a671e60a61108b63e1090885cc416e231b46d046d29bd1ec494fe88",
+      "download_count": 2,
+      "created_at": "2026-10-17T21:59:08Z",
+      "updated_at": "2026-10-17T21:59:08Z",
+      "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.35.4/netwatch-freebsd-x86_64.tar.gz"
     },
     {
       "url": "https://api.github.com/repos/matthart1983/netwatch/releases/assets/649038817",
@@ -139,7 +175,7 @@
       "state": "uploaded",
       "size": 5380962,
       "digest": "sha256:32e1f5d479a5657efd2e44d84406e700edf0ebde644d3e2f047c8405325acf95",
-      "download_count": 2,
+      "download_count": 11,
       "created_at": "2026-10-17T00:20:03Z",
       "updated_at": "2026-10-17T00:20:03Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.35.4/netwatch-linux-aarch64.tar.gz"
@@ -175,7 +211,7 @@
       "state": "uploaded",
       "size": 6270196,
       "digest": "sha256:61049c74afa1e270f5245e8323a93d922fe3ebefb8aef1ae1b1e7090c6da2451",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-10-17T00:20:03Z",
       "updated_at": "2026-10-17T00:20:03Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.35.4/netwatch-linux-armv5te.tar.gz"
@@ -211,7 +247,7 @@
       "state": "uploaded",
       "size": 5801694,
       "digest": "sha256:183272223a09c93fc890f6d5c9b9f71fb4d8883292d94963e10b5fabf1a7a1bd",
-      "download_count": 19,
+      "download_count": 80,
       "created_at": "2026-10-17T00:20:03Z",
       "updated_at": "2026-10-17T00:20:03Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.35.4/netwatch-linux-x86_64.tar.gz"
@@ -247,7 +283,7 @@
       "state": "uploaded",
       "size": 5339683,
       "digest": "sha256:bd2b054f4f58484b6801618d8257d304975ecb680ee53ceb3e28ae4f60fae382",
-      "download_count": 3,
+      "download_count": 13,
       "created_at": "2026-10-17T00:20:03Z",
       "updated_at": "2026-10-17T00:20:03Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.35.4/netwatch-macos-aarch64.tar.gz"
@@ -283,7 +319,7 @@
       "state": "uploaded",
       "size": 5604553,
       "digest": "sha256:93bd87811b81183d97fb1afc74ad41e86bc3dc16c312938861bac5cc5e115365",
-      "download_count": 1,
+      "download_count": 7,
       "created_at": "2026-10-17T00:20:03Z",
       "updated_at": "2026-10-17T00:20:03Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.35.4/netwatch-macos-x86_64.tar.gz"
@@ -319,7 +355,7 @@
       "state": "uploaded",
       "size": 5342006,
       "digest": "sha256:f04ae83634568f718c49d9ce46ac4f1567631bc90da349edaa7e85cf8643f0b4",
-      "download_count": 18,
+      "download_count": 69,
       "created_at": "2026-10-17T00:20:03Z",
       "updated_at": "2026-10-17T00:20:03Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.35.4/netwatch-windows-x86_64.exe.zip"
@@ -355,7 +391,7 @@
       "state": "uploaded",
       "size": 4282704,
       "digest": "sha256:926a163946e069954afc288da4f86aeb01b4188db7f1b7cd9429f25711fd090e",
-      "download_count": 2,
+      "download_count": 10,
       "created_at": "2026-10-17T00:20:03Z",
       "updated_at": "2026-10-17T00:20:03Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.35.4/netwatch_0.35.4-1_amd64.deb"
@@ -391,15 +427,15 @@
       "state": "uploaded",
       "size": 3750368,
       "digest": "sha256:469b895f4ae3f466ed88b1e5a61df07cb822e12b818b2227a0e191579ea037c0",
-      "download_count": 0,
+      "download_count": 4,
       "created_at": "2026-10-17T00:20:03Z",
       "updated_at": "2026-10-17T00:20:03Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.35.4/netwatch_0.35.4-1_arm64.deb"
     },
     {
-      "url": "https://api.github.com/repos/matthart1983/netwatch/releases/assets/649038822",
-      "id": 649038822,
-      "node_id": "RA_kwDORQfKns4mr4vm",
+      "url": "https://api.github.com/repos/matthart1983/netwatch/releases/assets/651711785",
+      "id": 651711785,
+      "node_id": "RA_kwDORQfKns4m2FUp",
       "name": "SHA256SUMS",
       "label": "",
       "uploader": {
@@ -425,16 +461,28 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 955,
-      "digest": "sha256:b933761d8e5b170b3229c214870d0b71639696d03342107abf7cbd72251e0aed",
-      "download_count": 1,
-      "created_at": "2026-10-17T00:20:03Z",
-      "updated_at": "2026-10-17T00:20:03Z",
+      "size": 1052,
+      "digest": "sha256:892fc6bc6dfff50ade496aa4657a72f906f92e37a898b2116c59e0dd5cf28abb",
+      "download_count": 5,
+      "created_at": "2026-10-17T21:59:08Z",
+      "updated_at": "2026-10-17T21:59:08Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.35.4/SHA256SUMS"
     }
   ],
   "tarball_url": "https://api.github.com/repos/matthart1983/netwatch/tarball/v0.35.4",
   "zipball_url": "https://api.github.com/repos/matthart1983/netwatch/zipball/v0.35.4",
   "body": "## What's Changed\n* fix(windows): find interfaces on non-English Windows by @arty-s in https://github.com/matthart1983/netwatch/pull/67\n* release: netwatch v0.35.3 — FreeBSD interface up-state from IFF_UP by @matthart1983 in https://github.com/matthart1983/netwatch/pull/65\n* fix(interfaces): scroll the interface list to keep the selection visible by @matthart1983 in https://github.com/matthart1983/netwatch/pull/68\n\n## New Contributors\n* @arty-s made their first contribution in https://github.com/matthart1983/netwatch/pull/67\n\n**Full Changelog**: https://github.com/matthart1983/netwatch/compare/v0.35.3...v0.35.4",
+  "reactions": {
+    "url": "https://api.github.com/repos/matthart1983/netwatch/releases/415484031/reactions",
+    "total_count": 2,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 2
 }
