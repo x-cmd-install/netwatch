@@ -14,11 +14,11 @@ x install netwatch
 
 ## Code insight
 
-Total: **96,921** lines of code across **199** files in the top 5 languages.
+Total: **96,956** lines of code across **199** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 91,076 | 4,981 | 6,809 | 160 |
+| Rust | 91,111 | 4,981 | 6,810 | 160 |
 | Html | 2,285 | 35 | 42 | 4 |
 | Json | 1,504 | 0 | 0 | 14 |
 | Python | 1,022 | 135 | 97 | 6 |
@@ -38,22 +38,22 @@ Total: **96,921** lines of code across **199** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,497 · **Forks**: 156 · **Open issues**: 38 · **Contributors**: 8
+- **Stars**: 3,498 · **Forks**: 157 · **Open issues**: 39 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 89 · **Merged PRs**: 42 · **Open PRs**: 8 · **Closed issues**: 37 · **Open issues**: 1 · **Commits**: 656
+- **Releases**: 89 · **Merged PRs**: 45 · **Open PRs**: 1 · **Closed issues**: 37 · **Open issues**: 2 · **Commits**: 659
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 11 | 22 | 8 | 4 | 1 | 229 |
-| last60d | 2026-08-19 | 20 | 26 | 8 | 7 | 1 | 294 |
-| 90d | 2026-07-20 | 27 | 28 | 8 | 9 | 1 | 326 |
-| last180d | 2026-04-21 | 77 | 39 | 8 | 23 | 1 | 476 |
-| 360d | 2025-10-23 | 89 | 42 | 8 | 37 | 1 | 618 |
-| last720d | 2024-10-28 | 89 | 42 | 8 | 37 | 1 | 656 |
+| 30d | 2026-09-19 | 11 | 25 | 1 | 4 | 2 | 232 |
+| last60d | 2026-08-20 | 20 | 29 | 1 | 7 | 2 | 297 |
+| 90d | 2026-07-21 | 27 | 31 | 1 | 9 | 2 | 329 |
+| last180d | 2026-04-22 | 75 | 38 | 1 | 21 | 2 | 479 |
+| 360d | 2025-10-24 | 89 | 45 | 1 | 37 | 2 | 621 |
+| last720d | 2024-10-29 | 89 | 45 | 1 | 37 | 2 | 659 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for netwatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:47:34Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:53:25Z._
