@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5880665,
       "digest": "sha256:6700354a94c9a3c9eec6c71152963a3cd9ce6784ea4083946a6d4998f74d7400",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-21T19:45:50Z",
       "updated_at": "2026-10-21T19:45:50Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.37.0/netwatch-freebsd-x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5475989,
       "digest": "sha256:81c8cb851e798d891177fc49eb19d006c6ac3f890f470e85d670ccc94a29d667",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-10-21T19:45:50Z",
       "updated_at": "2026-10-21T19:45:50Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.37.0/netwatch-linux-aarch64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5885521,
       "digest": "sha256:5d943d93e5c42fab4ba0e94a8c536fa21ed0066a5892a6c1a8552f485465c0b6",
-      "download_count": 22,
+      "download_count": 87,
       "created_at": "2026-10-21T19:45:50Z",
       "updated_at": "2026-10-21T19:45:50Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.37.0/netwatch-linux-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5437518,
       "digest": "sha256:09781e3e452364ebb70070aecad5666a28b427f4247f8fa6d7f20ad286be67c5",
-      "download_count": 8,
+      "download_count": 12,
       "created_at": "2026-10-21T19:45:50Z",
       "updated_at": "2026-10-21T19:45:51Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.37.0/netwatch-macos-aarch64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5478238,
       "digest": "sha256:5f7275e07ef83e8e9714b7f543cb00ff0b66e43689d3f590db12a1b03dedd90e",
-      "download_count": 46,
+      "download_count": 75,
       "created_at": "2026-10-21T19:45:50Z",
       "updated_at": "2026-10-21T19:45:50Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.37.0/netwatch-windows-x86_64.exe.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4345184,
       "digest": "sha256:960cd8b10d72218782200320283f64b35a63ea8ab4fc27e144b3de65a7c3f41d",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-10-21T19:45:50Z",
       "updated_at": "2026-10-21T19:45:51Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.37.0/netwatch_0.37.0-1_amd64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3808668,
       "digest": "sha256:19582afc31bae8f394539411b0da9e42fb88e0611a53c713c9931ed431734974",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-21T19:45:50Z",
       "updated_at": "2026-10-21T19:45:50Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.37.0/netwatch_0.37.0-1_arm64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1052,
       "digest": "sha256:00e3aeca5ae644052e9ed7476a9408433c85ee82ab89c506ade2ffd880aaef15",
-      "download_count": 1,
+      "download_count": 6,
       "created_at": "2026-10-21T19:45:50Z",
       "updated_at": "2026-10-21T19:45:50Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.37.0/SHA256SUMS"
