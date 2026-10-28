@@ -33,27 +33,27 @@ Total: **114,929** lines of code across **223** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.38.0` (2026-10-25)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-27
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 3,507 · **Forks**: 160 · **Open issues**: 39 · **Contributors**: 10
+- **Stars**: 3,511 · **Forks**: 160 · **Open issues**: 39 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 83 · **Open PRs**: 6 · **Closed issues**: 39 · **Open issues**: 0 · **Commits**: 748
+- **Releases**: 91 · **Merged PRs**: 83 · **Open PRs**: 6 · **Closed issues**: 39 · **Open issues**: 0 · **Commits**: 749
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 9 | 63 | 6 | 4 | 0 | 103 |
-| last60d | 2026-08-28 | 22 | 67 | 6 | 9 | 0 | 362 |
-| 90d | 2026-07-29 | 26 | 67 | 6 | 11 | 0 | 381 |
-| last180d | 2026-04-30 | 73 | 75 | 6 | 22 | 0 | 542 |
-| 360d | 2025-11-01 | 91 | 83 | 6 | 39 | 0 | 687 |
-| last720d | 2024-11-06 | 91 | 83 | 6 | 39 | 0 | 748 |
+| 30d | 2026-09-28 | 8 | 63 | 6 | 4 | 0 | 104 |
+| last60d | 2026-08-29 | 22 | 67 | 6 | 8 | 0 | 363 |
+| 90d | 2026-07-30 | 26 | 67 | 6 | 11 | 0 | 382 |
+| last180d | 2026-05-01 | 73 | 75 | 6 | 22 | 0 | 543 |
+| 360d | 2025-11-02 | 91 | 83 | 6 | 39 | 0 | 688 |
+| last720d | 2024-11-07 | 91 | 83 | 6 | 39 | 0 | 749 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for netwatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:26:45Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T07:05:08Z._
