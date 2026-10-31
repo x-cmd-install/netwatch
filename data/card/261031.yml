@@ -1,0 +1,171 @@
+about:
+  description: "Real-time network diagnostics in your terminal. One command, zero config, instant visibility."
+  license: MIT
+  homepage: https://netwatchlabs.com
+  head: d0d2988
+  archived: false
+  latestVersion: "v0.39.0"
+  latestRelease: "v0.39.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-31T06:57:24Z
+timeline:
+  created: 2026-02-14
+  lastCommit: 2026-10-31
+  lastVersion: 2026-10-31
+  lastRelease: 2026-10-31
+  lastPrerelease: 
+popularity:
+  star: 3521
+  watcher: 22
+  fork: 161
+  release: 92
+  contributor: 10
+  pullRequest: 117
+  issue: 39
+language:
+  Rust: 5473439
+  Python: 126124
+  Shell: 54625
+  PowerShell: 5420
+  Nix: 2702
+  Dockerfile: 1835
+  Tape: 1209
+totalBytes: 5665354
+recent:
+  last30d:
+    since: 2026-10-01
+    release: 7
+    mergedPR: 82
+    openPR: 0
+    closedIssue: 4
+    openIssue: 0
+    commit: 126
+  last60d:
+    since: 2026-09-01
+    release: 23
+    mergedPR: 87
+    openPR: 0
+    closedIssue: 8
+    openIssue: 0
+    commit: 385
+  last90d:
+    since: 2026-08-02
+    release: 27
+    mergedPR: 88
+    openPR: 0
+    closedIssue: 11
+    openIssue: 0
+    commit: 404
+  last180d:
+    since: 2026-05-04
+    release: 74
+    mergedPR: 96
+    openPR: 0
+    closedIssue: 20
+    openIssue: 0
+    commit: 565
+  last360d:
+    since: 2025-11-05
+    release: 92
+    mergedPR: 104
+    openPR: 0
+    closedIssue: 39
+    openIssue: 0
+    commit: 710
+  last720d:
+    since: 2024-11-10
+    release: 92
+    mergedPR: 104
+    openPR: 0
+    closedIssue: 39
+    openIssue: 0
+    commit: 771
+total:
+  release: 92
+  mergedPR: 104
+  openPR: 0
+  closedIssue: 39
+  openIssue: 0
+  commit: 771
+---
+path: /home/runner/.x-repo/github.com/matthart1983/netwatch
+collectedAt: 2026-10-31T06:57:43Z
+loc:
+  Rust:
+    code: 119784
+    comments: 6396
+    blanks: 8671
+    files: 190
+  Python:
+    code: 2297
+    comments: 207
+    blanks: 287
+    files: 10
+  Html:
+    code: 2285
+    comments: 35
+    blanks: 42
+    files: 4
+  Json:
+    code: 1504
+    comments: 0
+    blanks: 0
+    files: 14
+  Sh:
+    code: 673
+    comments: 363
+    blanks: 117
+    files: 17
+  Toml:
+    code: 320
+    comments: 139
+    blanks: 55
+    files: 5
+  RPMSpecfile:
+    code: 96
+    comments: 19
+    blanks: 28
+    files: 1
+  PowerShell:
+    code: 85
+    comments: 31
+    blanks: 6
+    files: 2
+  Nix:
+    code: 76
+    comments: 7
+    blanks: 11
+    files: 2
+  Bash:
+    code: 64
+    comments: 10
+    blanks: 6
+    files: 1
+  Fish:
+    code: 46
+    comments: 13
+    blanks: 5
+    files: 1
+  Dockerfile:
+    code: 10
+    comments: 27
+    blanks: 4
+    files: 1
+  Svg:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 9881
+    blanks: 2082
+    files: 35
+total:
+  code: 128092
+  comments: 28998
+  blanks: 12111
+  files: 284
+---
+
+---
