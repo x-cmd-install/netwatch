@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4970743,
       "digest": "sha256:1e61d9e15a7d5273911ae636f0566f63e1eb55e4e6e7c06acf4aba2d2ab69733",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-31T03:55:35Z",
       "updated_at": "2026-10-31T03:55:35Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.39.0/netwatch-0.39.0-1.x86_64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5777228,
       "digest": "sha256:998ccfd724671725775a72030dcc0d27cb6c87a468a82c772e283a00511b87c7",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-31T21:24:11Z",
       "updated_at": "2026-10-31T21:24:12Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.39.0/netwatch-linux-aarch64-static.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6782676,
       "digest": "sha256:ed4c38a0c2c6f38f5f38c12d0dd5f5040902e873f0a453f5b7365bc7f37c15ea",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-31T03:55:35Z",
       "updated_at": "2026-10-31T03:55:36Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.39.0/netwatch-linux-armv5te.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6216217,
       "digest": "sha256:808b02183438300dc1872e7108611c71303408d4a42bc2225833fcfab8276ef2",
-      "download_count": 13,
+      "download_count": 24,
       "created_at": "2026-10-31T21:24:11Z",
       "updated_at": "2026-10-31T21:24:12Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.39.0/netwatch-linux-x86_64-static.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6216183,
       "digest": "sha256:0db9a87a081a4173a46cdbb4704af995a07f3286dbb8a2295082b18aa5eaab98",
-      "download_count": 83,
+      "download_count": 102,
       "created_at": "2026-10-31T03:55:35Z",
       "updated_at": "2026-10-31T03:55:35Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.39.0/netwatch-linux-x86_64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5758494,
       "digest": "sha256:23a2360fcf9cad9fb89015e90718163b9b82d26a5023772545e337401afe99a3",
-      "download_count": 30,
+      "download_count": 34,
       "created_at": "2026-10-31T03:55:35Z",
       "updated_at": "2026-10-31T03:55:35Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.39.0/netwatch-macos-aarch64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5801694,
       "digest": "sha256:8597d84801dedf4f77281d35302c3fd727a896b75bbb5091a34b749280fde963",
-      "download_count": 89,
+      "download_count": 115,
       "created_at": "2026-10-31T03:55:35Z",
       "updated_at": "2026-10-31T03:55:35Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.39.0/netwatch-windows-x86_64.exe.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 4601960,
       "digest": "sha256:d993958313544ec80578abb9e04947dc7219099df73f39ddb22bad14c8f8fb6f",
-      "download_count": 11,
+      "download_count": 17,
       "created_at": "2026-10-31T03:55:35Z",
       "updated_at": "2026-10-31T03:55:35Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.39.0/netwatch_0.39.0-1_amd64.deb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1257,
       "digest": "sha256:6ee007d6cc7179788e1c2b9db0e63ab3dfef39ed50b29f1facb9aa5ff428f0cd",
-      "download_count": 3,
+      "download_count": 9,
       "created_at": "2026-10-31T21:24:11Z",
       "updated_at": "2026-10-31T21:24:11Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.39.0/SHA256SUMS"
@@ -582,13 +582,13 @@
   "body": "## What's Changed\n* docs: refresh README demo for NetWatch 0.38.0 by @matthart1983 in https://github.com/matthart1983/netwatch/pull/130\n* fix(dense): fill process and connection sparklines across their width by @matthart1983 in https://github.com/matthart1983/netwatch/pull/131\n* fix(whois): contact RDAP only when the user presses W by @matthart1983 in https://github.com/matthart1983/netwatch/pull/125\n* fix: review follow-ups for Packets keys, detail graphs and window labels by @matthart1983 in https://github.com/matthart1983/netwatch/pull/132\n* refactor(unsafe): use safe APIs and validate platform buffer boundaries by @matthart1983 in https://github.com/matthart1983/netwatch/pull/124\n* fix(sandbox): close root and ProcBroker capability leaks by @matthart1983 in https://github.com/matthart1983/netwatch/pull/121\n* fix(tui): restore terminal on panic and shutdown signals by @matthart1983 in https://github.com/matthart1983/netwatch/pull/126\n* fix(security): redact remote URLs and bound hostile file reads by @matthart1983 in https://github.com/matthart1983/netwatch/pull/123\n* fix(capture): preserve totals across counter wrap and bound tracking maps by @matthart1983 in https://github.com/matthart1983/netwatch/pull/122\n* test(diagnose): run the loaded-sample test on a clock it controls by @matthart1983 in https://github.com/matthart1983/netwatch/pull/133\n* fix(geo): bound the GeoIP and WHOIS caches and look up global addresses only by @matthart1983 in https://github.com/matthart1983/netwatch/pull/134\n* fix(capture): byte-budget the packet ring and charge streams at true cost by @matthart1983 in https://github.com/matthart1983/netwatch/pull/135\n* fix(incident): byte and row budgets for the flight recorder by @matthart1983 in https://github.com/matthart1983/netwatch/pull/136\n* test: synthetic connection tables and timed scale tests (2k/10k/50k) by @matthart1983 in https://github.com/matthart1983/netwatch/pull/137\n* test(tty): allocate one pty at a time so FreeBSD tests read their own by @matthart1983 in https://github.com/matthart1983/netwatch/pull/139\n* test(soak): flood_soak driver, AF_PACKET flood generator and netns harness by @matthart1983 in https://github.com/matthart1983/netwatch/pull/141\n* docs(security): publish threat model and verify policy inventories by @matthart1983 in https://github.com/matthart1983/netwatch/pull/127\n* feat(sandbox): deny TCP and Unix sockets on parser threads by role by @matthart1983 in https://github.com/matthart1983/netwatch/pull/138\n* fix(sandbox): drop CAP_NET_RAW where capture never reopens, drop CAP_NET_ADMIN, audit every thread by @matthart1983 in https://github.com/matthart1983/netwatch/pull/144\n* perf: 10k-row collector poll, closed-history timeline, snapshot generation by @matthart1983 in https://github.com/matthart1983/netwatch/pull/142\n* feat(metrics): capture received/dropped/decoded counters by @matthart1983 in https://github.com/matthart1983/netwatch/pull/143\n* fix(ui): measure and cut text by the cells ratatui draws by @matthart1983 in https://github.com/matthart1983/netwatch/pull/140\n* fix(diagnose): reject an overflowing --budget instead of panicking by @matthart1983 in https://github.com/matthart1983/netwatch/pull/145\n* fix(remote): let retry backoff grow to its cap by @matthart1983 in https://github.com/matthart1983/netwatch/pull/149\n* fix(config): refuse a config.toml that does not load instead of using defaults by @matthart1983 in https://github.com/matthart1983/netwatch/pull/146\n* docs(unsafe): state the invariant at every unsafe site by @matthart1983 in https://github.com/matthart1983/netwatch/pull/148\n* fix(capture): bound packet decoding by header lengths and fragment offset by @matthart1983 in https://github.com/matthart1983/netwatch/pull/147\n* ci: run the flood soak weekly, by hand and as a pull request smoke by @matthart1983 in https://github.com/matthart1983/netwatch/pull/150\n* feat(sandbox): seccomp no-socket filter, Landlock reporting in doctor, capability lab by @matthart1983 in https://github.com/matthart1983/netwatch/pull/151\n* feat(geoip): add netwatch geoip update and remove the online lookup by @matthart1983 in https://github.com/matthart1983/netwatch/pull/152\n* feat(privacy): third_party_probes switch, Insights cleartext warning, setcap recipe by @matthart1983 in https://github.com/matthart1983/netwatch/pull/153\n* perf: build the Connections view once per snapshot, and find IPv6 socket verdicts by @matthart1983 in https://github.com/matthart1983/netwatch/pull/154\n* hardening(unsafe): enforce SAFETY comments and unsafe extern with lints on every OS by @matthart1983 in https://github.com/matthart1983/netwatch/pull/155\n* ci: load GeoIP in a full soak, and run geoip update live on every OS by @matthart1983 in https://github.com/matthart1983/netwatch/pull/156\n* docs: publish the 0.39 performance numbers and the review plan's outcome by @matthart1983 in https://github.com/matthart1983/netwatch/pull/157\n\n\n**Full Changelog**: https://github.com/matthart1983/netwatch/compare/v0.38.0...v0.39.0",
   "reactions": {
     "url": "https://api.github.com/repos/matthart1983/netwatch/releases/429707637/reactions",
-    "total_count": 1,
-    "+1": 1,
+    "total_count": 3,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 0,
+    "heart": 1,
     "rocket": 0,
     "eyes": 0
   },
