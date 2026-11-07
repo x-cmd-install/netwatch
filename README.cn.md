@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
+Network diagnostics in your terminal. Inspect traffic, connections and network behaviour. Built with Rust.
 
 [![x-cmd/install — netwatch Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/netwatch.svg?lang=zh)](https://x-cmd.com/install/netwatch)
 
@@ -14,15 +14,15 @@ x install netwatch
 
 ## 代码洞察
 
-合计: **133,726** 行代码（覆盖前 5 种语言、共 **252** 个文件）。
+合计: **137,760** 行代码（覆盖前 5 种语言、共 **257** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 125,323 | 6,520 | 9,020 | 196 |
-| Json | 2,343 | 0 | 0 | 24 |
+| Rust | 128,701 | 6,603 | 9,250 | 197 |
+| Json | 2,847 | 0 | 0 | 25 |
 | Python | 2,297 | 207 | 287 | 10 |
 | Html | 2,285 | 35 | 42 | 4 |
-| Sh | 683 | 366 | 118 | 18 |
+| Sh | 823 | 415 | 143 | 21 |
 
 ## 源代码
 
@@ -33,27 +33,27 @@ x install netwatch
 ## 发布
 
 - **最新版本**: `v0.40.0` (2026-11-03)
-- **最近提交**: 2026-11-03
+- **最近提交**: 2026-11-07
 - **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 3,578 · **Fork**: 167 · **开放 issue**: 40 · **贡献者**: 10
+- **Star**: 3,579 · **Fork**: 167 · **开放 issue**: 40 · **贡献者**: 10
 
 ## 累计统计
 
-- **发布数**: 93 · **已合并 PR**: 119 · **开放 PR**: 3 · **已关闭 issue**: 39 · **开放 issue**: 1 · **提交数**: 787
+- **发布数**: 93 · **已合并 PR**: 128 · **开放 PR**: 2 · **已关闭 issue**: 39 · **开放 issue**: 1 · **提交数**: 796
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 5 | 94 | 3 | 3 | 1 | 125 |
-| last60d | 2026-09-07 | 23 | 102 | 3 | 8 | 1 | 390 |
-| 90d | 2026-08-08 | 28 | 103 | 3 | 11 | 1 | 420 |
-| last180d | 2026-05-10 | 71 | 111 | 3 | 20 | 1 | 562 |
-| 360d | 2025-11-11 | 93 | 119 | 3 | 39 | 1 | 726 |
-| last720d | 2024-11-16 | 93 | 119 | 3 | 39 | 1 | 787 |
+| 30d | 2026-10-08 | 5 | 103 | 2 | 3 | 1 | 134 |
+| last60d | 2026-09-08 | 21 | 111 | 2 | 7 | 1 | 399 |
+| 90d | 2026-08-09 | 28 | 112 | 2 | 11 | 1 | 429 |
+| last180d | 2026-05-11 | 67 | 120 | 2 | 19 | 1 | 571 |
+| 360d | 2025-11-12 | 93 | 128 | 2 | 39 | 1 | 735 |
+| last720d | 2024-11-17 | 93 | 128 | 2 | 39 | 1 | 796 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ netwatch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261106.yml` · 2026-11-06T08:20:15Z._
+_数据快照: `data/card/261107.yml` · 2026-11-07T07:21:41Z._
