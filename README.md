@@ -14,13 +14,13 @@ x install netwatch
 
 ## Code insight
 
-Total: **137,807** lines of code across **257** files in the top 5 languages.
+Total: **142,923** lines of code across **268** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 128,741 | 6,617 | 9,253 | 197 |
-| Json | 2,847 | 0 | 0 | 25 |
-| Python | 2,297 | 207 | 287 | 10 |
+| Rust | 133,242 | 6,976 | 9,527 | 201 |
+| Json | 2,926 | 0 | 0 | 30 |
+| Python | 2,806 | 238 | 356 | 12 |
 | Html | 2,285 | 35 | 42 | 4 |
 | Sh | 823 | 415 | 143 | 21 |
 
@@ -32,28 +32,28 @@ Total: **137,807** lines of code across **257** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.0-rc.3` (2026-11-03)
-- **Last commit**: 2026-11-11
+- **Latest**: `v1.0.0-rc.4` (2026-11-03)
+- **Last commit**: 2026-11-14
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 3,592 · **Forks**: 167 · **Open issues**: 42 · **Contributors**: 10
+- **Stars**: 3,594 · **Forks**: 167 · **Open issues**: 42 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 95 · **Merged PRs**: 134 · **Open PRs**: 4 · **Closed issues**: 40 · **Open issues**: 2 · **Commits**: 805
+- **Releases**: 96 · **Merged PRs**: 141 · **Open PRs**: 0 · **Closed issues**: 41 · **Open issues**: 1 · **Commits**: 813
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 7 | 109 | 4 | 3 | 2 | 143 |
-| last60d | 2026-09-14 | 18 | 114 | 4 | 7 | 2 | 390 |
-| 90d | 2026-08-15 | 27 | 118 | 4 | 10 | 2 | 420 |
-| last180d | 2026-05-17 | 66 | 126 | 4 | 19 | 2 | 551 |
-| 360d | 2025-11-18 | 95 | 134 | 4 | 40 | 2 | 744 |
-| last720d | 2024-11-23 | 95 | 134 | 4 | 40 | 2 | 805 |
+| 30d | 2026-10-15 | 8 | 115 | 0 | 4 | 1 | 0 |
+| last60d | 2026-09-15 | 18 | 121 | 0 | 8 | 1 | 0 |
+| 90d | 2026-08-16 | 27 | 125 | 0 | 11 | 1 | 0 |
+| last180d | 2026-05-18 | 65 | 133 | 0 | 20 | 1 | 0 |
+| 360d | 2025-11-19 | 96 | 141 | 0 | 41 | 1 | 0 |
+| last720d | 2024-11-24 | 96 | 141 | 0 | 41 | 1 | 813 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for netwatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:34:51Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:24:47Z._
