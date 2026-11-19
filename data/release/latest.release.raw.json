@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5237680,
       "digest": "sha256:28afcf62487619faba0c917d194b508ac385d09401a4101c443a72b13ddd39cd",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-11-14T22:21:00Z",
       "updated_at": "2026-11-14T22:21:01Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.40.1/netwatch-0.40.1-1.x86_64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 338563,
       "digest": "sha256:6b0062fd2dc28c57833e948baa0670edc8902ff53939b387f69e70ac8aea8ed6",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-14T22:21:00Z",
       "updated_at": "2026-11-14T22:21:00Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.40.1/netwatch-0.40.1.cdx.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6073646,
       "digest": "sha256:ed216e10757d91d57a4c82547fb468bb9c4cf71d539b5ce9a48cbf7d843fd10a",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-11-14T22:21:00Z",
       "updated_at": "2026-11-14T22:21:01Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.40.1/netwatch-linux-aarch64-static.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6073662,
       "digest": "sha256:f08373a4667cebe680997a14215ca4bd4b91870d2234b4e677908462c92d2135",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-11-14T22:21:00Z",
       "updated_at": "2026-11-14T22:21:01Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.40.1/netwatch-linux-aarch64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6546976,
       "digest": "sha256:c386f9cd03df9c845fca09be8e61c7e159dbdda8b85b1b4f6705f8982a330528",
-      "download_count": 21,
+      "download_count": 32,
       "created_at": "2026-11-14T22:21:00Z",
       "updated_at": "2026-11-14T22:21:01Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.40.1/netwatch-linux-x86_64-static.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6546976,
       "digest": "sha256:16dd19b19b2a18a39fe7ea03debfb12e9416659e773cd86521101c3e1dc0ecde",
-      "download_count": 76,
+      "download_count": 97,
       "created_at": "2026-11-14T22:21:00Z",
       "updated_at": "2026-11-14T22:21:01Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.40.1/netwatch-linux-x86_64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6088989,
       "digest": "sha256:f683b8e014f070b27b98c4519af5948b8fdbf11a0f29811c277bdec9a86f1475",
-      "download_count": 25,
+      "download_count": 34,
       "created_at": "2026-11-14T22:21:00Z",
       "updated_at": "2026-11-14T22:21:01Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.40.1/netwatch-macos-aarch64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 6378986,
       "digest": "sha256:c42cdf7efffe093c7172fc15c7acaec53a5738fa204bbd0a727f4c519f5c4817",
-      "download_count": 10,
+      "download_count": 15,
       "created_at": "2026-11-14T22:21:00Z",
       "updated_at": "2026-11-14T22:21:01Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.40.1/netwatch-macos-x86_64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6164009,
       "digest": "sha256:d8a92aaf67b8e7f0f5b06a04ebeb5a7988f28a2ed888ca491d455547f160bc5b",
-      "download_count": 97,
+      "download_count": 153,
       "created_at": "2026-11-14T22:21:00Z",
       "updated_at": "2026-11-14T22:21:01Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.40.1/netwatch-windows-x86_64.exe.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 4850932,
       "digest": "sha256:b9d09b90d174142a62f06bd2c30de479f06ce16b94598b9186e976cabaaccab2",
-      "download_count": 13,
+      "download_count": 19,
       "created_at": "2026-11-14T22:21:00Z",
       "updated_at": "2026-11-14T22:21:01Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.40.1/netwatch_0.40.1-1_amd64.deb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1257,
       "digest": "sha256:384f5383548a8e37ae9efaa7db1a08cb7df7adfa28ba25bb54a80decfb2e9f3b",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-11-14T22:21:00Z",
       "updated_at": "2026-11-14T22:21:00Z",
       "browser_download_url": "https://github.com/matthart1983/netwatch/releases/download/v0.40.1/SHA256SUMS"
@@ -582,13 +582,13 @@
   "body": "## What's Changed\n* feat(daemon): flow log of which process connected where (experimental) by @matthart1983 in https://github.com/matthart1983/netwatch/pull/181\n* feat(macos): build an unsigned .dmg installer for Apple Silicon by @matthart1983 in https://github.com/matthart1983/netwatch/pull/182\n* ci(release): make release candidates, and check installs from every channel by @matthart1983 in https://github.com/matthart1983/netwatch/pull/183\n* README: trim header badges, fix Related by @matthart1983 in https://github.com/matthart1983/netwatch/pull/186\n* feat(uptime): --md report for an ISP ticket, and a second internet target by @matthart1983 in https://github.com/matthart1983/netwatch/pull/184\n* fix(theme): darken graph peaks on a light background by @matthart1983 in https://github.com/matthart1983/netwatch/pull/185\n* fix(health): don't ask the second internet target behind a silent gateway by @matthart1983 in https://github.com/matthart1983/netwatch/pull/187\n* README: light-terminal demo at the top; re-record the dark demo on 0.40.0 by @matthart1983 in https://github.com/matthart1983/netwatch/pull/188\n* Record the light demo in the paper theme by @matthart1983 in https://github.com/matthart1983/netwatch/pull/189\n* docs(performance): record the plateau gate exception for 1.0.0-rc.1 by @matthart1983 in https://github.com/matthart1983/netwatch/pull/190\n* fix(sandbox): accept a denied TCP Fast Open send in the gap test (#192) by @matthart1983 in https://github.com/matthart1983/netwatch/pull/196\n* fix(release): name pre-release packages as GitHub serves them, and keep :latest off them by @matthart1983 in https://github.com/matthart1983/netwatch/pull/191\n* fix(memory): turn transparent huge pages off at startup on Linux by @matthart1983 in https://github.com/matthart1983/netwatch/pull/198\n* fix(platform): stop the capture fix line when netwatch isn't on PATH by @matthart1983 in https://github.com/matthart1983/netwatch/pull/199\n* README: lead with what netwatch does and show Diagnose closing an issue by @matthart1983 in https://github.com/matthart1983/netwatch/pull/201\n* Diagnose: rule maturity, earned verdicts, and the tools to prove them by @matthart1983 in https://github.com/matthart1983/netwatch/pull/203\n* windows: fix the unit-test binary crashing at startup on Rust 1.100 by @matthart1983 in https://github.com/matthart1983/netwatch/pull/205\n* build(deps): bump the cargo-minor group with 4 updates by @dependabot[bot] in https://github.com/matthart1983/netwatch/pull/193\n* build(deps): bump taiki-e/install-action from 2.88.0 to 2.90.1 in the actions group by @dependabot[bot] in https://github.com/matthart1983/netwatch/pull/195\n* TUI: layouts that fit every size, a command palette, and one look across tabs by @matthart1983 in https://github.com/matthart1983/netwatch/pull/204\n* Packet filters take CIDR ranges and != by @matthart1983 in https://github.com/matthart1983/netwatch/pull/206\n* build(deps): bump jsonschema from 0.20.0 to 0.60.2 by @matthart1983 in https://github.com/matthart1983/netwatch/pull/207\n* build(deps): bump the actions group with 5 updates by @dependabot[bot] in https://github.com/matthart1983/netwatch/pull/210\n* build(deps): bump the cargo-minor group with 5 updates by @dependabot[bot] in https://github.com/matthart1983/netwatch/pull/208\n* build(deps): bump jsonschema from 0.60.2 to 0.61.1 by @dependabot[bot] in https://github.com/matthart1983/netwatch/pull/209\n\n\n**Full Changelog**: https://github.com/matthart1983/netwatch/compare/v0.40.0...v0.40.1",
   "reactions": {
     "url": "https://api.github.com/repos/matthart1983/netwatch/releases/445629779/reactions",
-    "total_count": 7,
-    "+1": 3,
+    "total_count": 9,
+    "+1": 4,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
     "confused": 0,
-    "heart": 1,
+    "heart": 2,
     "rocket": 1,
     "eyes": 1
   },
