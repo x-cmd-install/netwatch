@@ -38,7 +38,7 @@ Total: **142,927** lines of code across **268** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,813 · **Forks**: 180 · **Open issues**: 43 · **Contributors**: 11
+- **Stars**: 3,822 · **Forks**: 182 · **Open issues**: 43 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **142,927** lines of code across **268** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 7 | 59 | 4 | 2 | 2 | 74 |
-| last60d | 2026-09-26 | 16 | 128 | 4 | 6 | 2 | 232 |
-| 90d | 2026-08-27 | 29 | 132 | 4 | 11 | 2 | 437 |
-| last180d | 2026-05-29 | 49 | 140 | 4 | 18 | 2 | 524 |
-| 360d | 2025-11-30 | 98 | 148 | 4 | 41 | 2 | 762 |
-| last720d | 2024-12-05 | 98 | 148 | 4 | 41 | 2 | 825 |
+| 30d | 2026-10-27 | 7 | 59 | 4 | 2 | 2 | 74 |
+| last60d | 2026-09-27 | 16 | 128 | 4 | 6 | 2 | 232 |
+| 90d | 2026-08-28 | 29 | 132 | 4 | 11 | 2 | 437 |
+| last180d | 2026-05-30 | 49 | 135 | 4 | 18 | 2 | 524 |
+| 360d | 2025-12-01 | 98 | 148 | 4 | 41 | 2 | 762 |
+| last720d | 2024-12-06 | 98 | 148 | 4 | 41 | 2 | 825 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for netwatch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:10:58Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:46:44Z._
